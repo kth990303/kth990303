@@ -1,7 +1,7 @@
 ### 코딩최고가 되고싶은 코딩초보
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.github.io/)](https://kth990303.github.io/)  C++로 알고리즘 공부해보는 중 (2020.10.12~2022.04.11 군대)
  
- [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/kth990303/)
+
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
