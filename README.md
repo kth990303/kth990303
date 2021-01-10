@@ -7,8 +7,8 @@
    0. Republic Of Korea Army (201012 ~ 220411)
    1. Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
-   3. Baekjoon Study Leader
-    - 750+ solved
+   3. Baekjoon Study Leader\
+    - 750+ solved\
     - SolvedAC Platinum Level
 
 ### - 🌱 I’m currently learning ...
@@ -20,6 +20,7 @@
   - Python
   - Algorithm (Use C++ language)
   - SQL: Oracle, MySQL
+
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
