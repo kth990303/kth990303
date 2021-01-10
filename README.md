@@ -10,7 +10,7 @@
    3. Baekjoon Study Leader\
     - 750+ solved\
     - SolvedAC Platinum Level
-   4. Kakao Programmers LV.3\
+   4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
     - LV.2 (20.9.12)\
     - LV.3 (20.9.12)\
