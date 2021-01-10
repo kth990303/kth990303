@@ -10,7 +10,11 @@
    3. Baekjoon Study Leader\
     - 750+ solved\
     - SolvedAC Platinum Level
-   4. Kakao Programmers LV.3 (100/100)
+   4. Kakao Programmers LV.3\
+    - LV.1 (19.10.13)\
+    - LV.2 (20.9.12)\
+    - LV.3 (20.9.12)\
+    - LV.4 -ing
 
 ### - 🌱 I’m currently learning ...
   - JSP / Spring
