@@ -8,7 +8,7 @@
    1. Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Study Leader\
-    - 750+ solved\
+    - 850+ solved\
     - SolvedAC Platinum Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
@@ -17,14 +17,19 @@
     - LV.4 -ing
 
 ### - 🌱 I’m currently learning ...
-  - JSP / Spring
+  - JSP / Servlet
+  - Spring / Spring Boot
   - C/C++
   - JAVA
   - Html/Css/JS
   - Node.js
-  - Python
+  - Ajax (axios)
   - Algorithm (Use C++ language)
   - SQL: Oracle, MySQL
+  
+### - 📫 How to reach me: ...
+   - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
+  <strong>kth990303@naver.com</strong>
 
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
