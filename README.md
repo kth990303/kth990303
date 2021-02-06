@@ -29,7 +29,7 @@
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
-  <strong>kth990303@naver.com</strong>
+  <strong>kth990303@gmail.com</strong>
 
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
