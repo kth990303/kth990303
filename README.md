@@ -17,13 +17,9 @@
     - LV.4 -ing
 
 ### - 🌱 I’m currently learning ...
-  - JSP / Servlet
   - Spring / Spring Boot
-  - C/C++
-  - JAVA
   - Html/Css/JS
   - Node.js
-  - Ajax (axios)
   - Algorithm (Use C++ language)
   - SQL: Oracle, MySQL
   
