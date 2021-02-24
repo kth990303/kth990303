@@ -18,10 +18,11 @@
 
 ### - 🌱 I’m currently learning ...
   - Spring / Spring Boot
+  - ORM: JPA
   - Html/Css/JS
   - Node.js
   - Algorithm (Use C++ language)
-  - SQL: Oracle, MySQL
+  - SQL: MySQL
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
