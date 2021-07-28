@@ -8,7 +8,7 @@
    1. Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Study Leader\
-    - 1150+ solved\
+    - 1200+ solved\
     - SolvedAC Platinum Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
@@ -21,6 +21,8 @@
   - ORM: JPA
   - Html/Css/JS
   - Node.js
+  - React
+  - ODM: Mongoose
   - Algorithm (Use C++ language)
   - SQL: MySQL
   
