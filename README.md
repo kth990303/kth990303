@@ -4,11 +4,11 @@
  [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/profile/kth990303)
  
 ### - 🔭 I'm currently working on ...
-   0. Republic Of Korea Army
-   1. Web BackEnd Programmer
+   0. Republic Of Korea Army (201012 ~ 220411)
+   1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Study Leader\
-    - 1250+ solved\
+    - 1300+ solved\
     - SolvedAC Diamond V Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
@@ -19,7 +19,6 @@
 ### - 🌱 I’m currently learning ...
   - Spring / Spring Boot
   - ORM: JPA
-  - Html/Css/JS
   - Node.js
   - React
   - ODM: Mongoose
