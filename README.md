@@ -8,7 +8,7 @@
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Study Leader\
-    - 1300+ solved\
+    - 1450+ solved\
     - SolvedAC Diamond V Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
@@ -24,6 +24,14 @@
   - ODM: Mongoose
   - Algorithm (Use C++ language)
   - SQL: MySQL
+
+### - 😄 Performence/Awards
+  - 2021 스타트업 코딩 페스티벌 <strong>본선(상위 10% 이내) 진출</strong>
+  - 2021 Dev Carnival <strong>'금손'</strong>
+  - 프로그래머스 월간 코드 챌린지 시즌2 4월 <strong>'525등'</strong>
+  - 프로그래머스 월간 코드 챌린지 시즌2 5월 <strong>'215등'</strong>
+  - 프로그래머스 월간 코드 챌린지 시즌3 9월 <strong>'136등'</strong>
+  - 프로그래머스 월간 코드 챌린지 시즌3 10월 <strong>'52등'</strong>
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
