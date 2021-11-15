@@ -8,7 +8,7 @@
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Study Leader\
-    - 1450+ solved\
+    - 1550+ solved\
     - SolvedAC Diamond V Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
