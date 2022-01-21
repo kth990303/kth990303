@@ -7,7 +7,7 @@
    0. Republic Of Korea Army
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
-   3. Baekjoon Study Leader\
+   3. Baekjoon Group Study Leader\
     - 1700+ solved\
     - SolvedAC Diamond V Level
    4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
@@ -19,9 +19,7 @@
 ### - 🌱 I’m currently learning ...
   - Spring / Spring Boot
   - ORM: JPA
-  - Node.js
-  - React
-  - ODM: Mongoose
+  - React + typescript
   - Algorithm (Use C++ language)
   - SQL: MySQL
 
