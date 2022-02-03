@@ -4,7 +4,6 @@
  [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/profile/kth990303)
  
 ### - 🔭 I'm currently working on ...
-   0. Republic Of Korea Army
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. Baekjoon Group Study Leader\
