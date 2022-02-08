@@ -6,10 +6,11 @@
 ### - 🔭 I'm currently working on ...
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
-   3. Baekjoon Group Study Leader\
+   3. 우아한테크코스 4기 (22.02.08 ~ )
+   4. Baekjoon Group Study Leader\
     - 1700+ solved\
     - SolvedAC Diamond V Level
-   4. Kakao Programmers LV.3 Solver (Level 4 -ing)\
+   5. Kakao Programmers LV.3 Solver (Level 4 -ing)\
     - LV.1 (19.10.13)\
     - LV.2 (20.9.12)\
     - LV.3 (20.9.12)\
