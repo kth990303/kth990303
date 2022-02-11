@@ -10,14 +10,9 @@
    4. Baekjoon Group Study Leader\
     - 1700+ solved\
     - SolvedAC Diamond V Level
-   5. Kakao Programmers LV.3 Solver (Level 4 -ing)\
-    - LV.1 (19.10.13)\
-    - LV.2 (20.9.12)\
-    - LV.3 (20.9.12)\
-    - LV.4 -ing
 
 ### - 🌱 I’m currently learning ...
-  - Spring / Spring Boot
+  - JAVA / Spring
   - ORM: JPA
   - React + typescript
   - Algorithm (Use C++ language)
