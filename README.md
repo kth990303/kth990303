@@ -7,9 +7,6 @@
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE
    3. 우아한테크코스 4기 (22.02.08 ~ )
-   4. Baekjoon Group Study Leader\
-    - 1800+ solved\
-    - SolvedAC Diamond V Level
 
 ### - 🌱 I’m currently learning ...
   - JAVA / Spring
