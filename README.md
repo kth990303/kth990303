@@ -18,8 +18,9 @@
 ### - 😄 Performence/Awards
   - 2021 스타트업 코딩 페스티벌 <strong>본선(상위 10% 이내) 진출</strong>
   - 2021 Dev Carnival <strong>'금손'</strong>
-  - 프로그래머스 월간 코드 챌린지 시즌3 9월 <strong>'136등'</strong>
-  - 프로그래머스 월간 코드 챌린지 시즌3 10월 <strong>'52등'</strong>
+  - 2021 프로그래머스 월간 코드 챌린지 시즌3 9월 <strong>'136등'</strong>
+  - 2021 프로그래머스 월간 코드 챌린지 시즌3 10월 <strong>'52등'</strong>
+  - 2022 UCPC 본선 진출 (교내랭킹 1위 팀 추가선발)
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
