@@ -20,7 +20,7 @@
   - 2021 Dev Carnival <strong>'금손'</strong>
   - 2021 프로그래머스 월간 코드 챌린지 시즌3 9월 <strong>'136등'</strong>
   - 2021 프로그래머스 월간 코드 챌린지 시즌3 10월 <strong>'52등'</strong>
-  - 2022 UCPC 본선 진출 (교내랭킹 1위 팀 추가선발)
+  - 2022 UCPC 본선 41위
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
