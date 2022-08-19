@@ -9,11 +9,19 @@
    3. 우아한테크코스 4기 (22.02.08 ~ )
 
 ### - 🌱 I’m currently learning ...
-  - JAVA / Spring
-  - ORM: JPA
-  - React + typescript
+  - JAVA / Kotlin / Spring
+    - Junit5
+    - Kotest
+    - Spring REST Docs
+    - Spring Data JPA
   - Algorithm (Use C++ language)
-  - SQL: MySQL
+  - Infra
+    - AWS EC2
+    - Github Actions
+    - Jenkins
+    - Docker
+    - Flyway
+    - Sonarqube
 
 ### - 😄 Performence/Awards
   - 2021 스타트업 코딩 페스티벌 <strong>본선(상위 10% 이내) 진출</strong>
