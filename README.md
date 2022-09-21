@@ -14,12 +14,12 @@
     - Kotest
     - Spring REST Docs
     - Spring Data JPA
+    - QueryDsl
   - Algorithm (Use C++ language)
   - Infra
     - AWS EC2
     - Github Actions
     - Jenkins
-    - Docker
     - Flyway
     - Sonarqube
 
