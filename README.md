@@ -1,5 +1,5 @@
 ## 코딩최고가 되고싶은 코딩초보
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://kth990303.tistory.com)  C++로 알고리즘 공부해보는 중
+### - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://kth990303.tistory.com)
  
  [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/profile/kth990303)
  
