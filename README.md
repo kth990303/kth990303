@@ -29,6 +29,7 @@
   - 2021 프로그래머스 월간 코드 챌린지 시즌3 9월 <strong>'136등'</strong>
   - 2021 프로그래머스 월간 코드 챌린지 시즌3 10월 <strong>'52등'</strong>
   - 2022 UCPC 본선 41위
+  - 2022 하반기 백엔드 데브매칭 탑프로그래머스 (상위 5% 이내)
   
 ### - 📫 How to reach me: ...
    - Hi, please feedback to here! Newbie developer kth990303 wants a mentor :)
