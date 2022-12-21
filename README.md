@@ -8,6 +8,7 @@
    1. Junior Web BackEnd Programmer
    2. Konkuk Univ. 19' CSE (`2019.03 ~ `)
    3. 우아한테크코스 4기 BE 수료생 (`2022.02 ~ 2022.11`)
+   4. 넥스터즈 22기 BE Developer (`2022.12 ~ `)
 
 ### - 🌱 I’m currently learning ...
   - JAVA / Kotlin / Spring
