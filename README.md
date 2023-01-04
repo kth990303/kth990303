@@ -11,6 +11,15 @@
    2. 우아한테크코스 4기 BE 수료생 (`2022.02 ~ 2022.11`)
    3. 넥스터즈 22기 BE Developer (`2022.12 ~ `)
 
+### Devlog (Blog)
+- [2022년 회고, 그리고 2023년 나의 계획](https://kth990303.tistory.com/404) (22.12.14)
+- [KUPC 2022 출제 및 운영 후기](https://kth990303.tistory.com/400) (22.12.03)
+- [우아한테크코스 4기 수료](https://kth990303.tistory.com/396) (22.11.25)
+- [REQUIRES_NEW 옵션만으론 자식이 롤백될 때 부모도 롤백된다](https://kth990303.tistory.com/387) (22.10.20)
+- [Kotest Nested Test spec에서의 context 생명주기 및 트랜잭션](https://kth990303.tistory.com/374) (22.09.08)
+- [Bulk Update, Delete 연산과 영속성 컨텍스트](https://kth990303.tistory.com/377) (22.09.14)
+- [프로젝트 동시성 이슈 해결을 위해 낙관적 락을 걸어보았다](https://kth990303.tistory.com/390) (22.10.29)
+
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
