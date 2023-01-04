@@ -14,6 +14,7 @@
 ### Devlog (Blog)
 - [2022년 회고, 그리고 2023년 나의 계획](https://kth990303.tistory.com/404) (22.12.14)
 - [KUPC 2022 출제 및 운영 후기](https://kth990303.tistory.com/400) (22.12.03)
+- [UCPC 2022 본선 후기](https://kth990303.tistory.com/352) (22.07.23)
 - [우아한테크코스 4기 수료](https://kth990303.tistory.com/396) (22.11.25)
 - [REQUIRES_NEW 옵션만으론 자식이 롤백될 때 부모도 롤백된다](https://kth990303.tistory.com/387) (22.10.20)
 - [Kotest Nested Test spec에서의 context 생명주기 및 트랜잭션](https://kth990303.tistory.com/374) (22.09.08)
