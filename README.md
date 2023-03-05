@@ -6,7 +6,7 @@
  [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/profile/kth990303)
  
 ### Experience
-   0. Backend Developer (**Java**, Kotlin, **Spring**)
+   0. Backend Developer (**Kotlin**, **Java**, **Spring**)
    1. 건국대학교 컴퓨터공학부 19학번 (`2019.03 ~ `)
    2. 우아한테크코스 4기 BE 수료생 (`2022.02 ~ 2022.11`)
    3. 넥스터즈 22기 BE Developer (`2023.01 ~ 2023.03`)
