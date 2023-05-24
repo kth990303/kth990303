@@ -15,11 +15,11 @@
 - [2022년 회고, 그리고 2023년 나의 계획](https://kth990303.tistory.com/404) (22.12.14)
 - [KUPC 2022 출제 및 운영 후기](https://kth990303.tistory.com/400) (22.12.03)
 - [UCPC 2022 본선 후기](https://kth990303.tistory.com/352) (22.07.23)
-- [우아한테크코스 4기 수료](https://kth990303.tistory.com/396) (22.11.25)
 - [REQUIRES_NEW 옵션만으론 자식이 롤백될 때 부모도 롤백된다](https://kth990303.tistory.com/387) (22.10.20)
+- [이벤트 발행 및 @TransactionalEventListener을 이용한 의존성 줄이기](https://kth990303.tistory.com/441) (23.04.25)
+- [와이어샤크로 tcpdump 파일 분석하여 AWS ALB idle timeout 설정하기](https://kth990303.tistory.com/447) (23.05.15)
 - [Kotest Nested Test spec에서의 context 생명주기 및 트랜잭션](https://kth990303.tistory.com/374) (22.09.08)
 - [Bulk Update, Delete 연산과 영속성 컨텍스트](https://kth990303.tistory.com/377) (22.09.14)
-- [프로젝트 동시성 이슈 해결을 위해 낙관적 락을 걸어보았다](https://kth990303.tistory.com/390) (22.10.29)
 
 <!--
 **kth990303/kth990303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
