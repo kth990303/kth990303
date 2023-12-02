@@ -1,7 +1,6 @@
 ## 코딩최고가 되고싶은 코딩초보 
 ### About Me
 - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://kth990303.tistory.com)
-- [Dev Resume](https://clean-nutria-44b.notion.site/061c101d456c494092cb2825636b4317)
 
  [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=kth990303)](https://solved.ac/profile/kth990303)
  
